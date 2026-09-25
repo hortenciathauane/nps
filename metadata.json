@@ -1,0 +1,6 @@
+{
+  "name": "NPS Acadêmico - Sistema de Pesquisa e Gestão Net Promoter Score",
+  "description": "Sistema web completo de pesquisa NPS com painel administrativo, links exclusivos de clientes, cálculo em tempo real e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
